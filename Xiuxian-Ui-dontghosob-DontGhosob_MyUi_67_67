@@ -20,13 +20,13 @@ local Themes = {
 ["yellow"]={Background=c3(22,22,8),SecondaryBg=c3(15,15,5),SectionBg=c3(22,22,8),Border=c3(200,200,0),Accent=c3(180,180,0),TextInactive=c3(255,255,150),Disabled=c3(100,100,40),Hover=c3(80,80,10),Button=c3(40,40,10),Slider=c3(255,255,0),ToggleOn=c3(255,255,0),ToggleOff=c3(50,50,10),TabActive=c3(200,200,0),TabInactive=c3(50,50,10),ControlButton=c3(45,45,15),Text=c3(255,255,255),RGB={c3(255,255,0),c3(230,230,0),c3(255,255,50),c3(200,200,0),c3(255,255,100),c3(220,220,0)}}
 }
 local ThemeImages = {
-["black"]="",
-["grey"]="",
+["black"]="74132628970664",
+["grey"]="74132628970664",
 ["red"]="rbxassetid://137184743125361",
-["blue"]="",
-["green"]="",
-["pink"]="",
-["orange"]="",
+["blue"]="103808753465295",
+["green"]="75914002712867",
+["pink"]="83172647038534",
+["orange"]="87708071924260",
 ["yellow"]=""
 }
 local Fonts = {Title=Enum.Font.Arcade,Normal=Enum.Font.Arcade,Tab=Enum.Font.Arcade,Button=Enum.Font.Arcade,Bold=Enum.Font.Arcade}
