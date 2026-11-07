@@ -27,7 +27,7 @@ local ThemeImages = {
 ["green"]="75914002712867",
 ["pink"]="83172647038534",
 ["orange"]="87708071924260",
-["yellow"]=""
+["yellow"]="100197936143373"
 }
 local Fonts = {Title=Enum.Font.Arcade,Normal=Enum.Font.Arcade,Tab=Enum.Font.Arcade,Button=Enum.Font.Arcade,Bold=Enum.Font.Arcade}
 local UI_SIZE = {Width=260,Height=280}
